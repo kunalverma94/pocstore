@@ -2,7 +2,7 @@
   "name": "poc",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://kunalverma94.github.io/pocstore/dist",
+  "homepage": "http://kunalverma94.github.io/pocstore/build",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
