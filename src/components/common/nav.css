@@ -1,0 +1,73 @@
+input.search-input {
+  height: 100% !important;
+  margin: 0 !important;
+  width: 100% !important;
+  line-height: 0 !important;
+  border: none !important;
+  box-shadow: unset !important;
+  background: #fff !important;
+  padding: 0.5rem !important;
+  border-radius: 6px !important;
+}
+
+.z-nav {
+  background: var(--pr);
+  color: white !important;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: space-around;
+}
+
+.zflex {
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+
+.z-item > a > div {
+  color: white;
+  padding: 1rem;
+  display: flex;
+}
+
+.z-item.group {
+  display: flex;
+}
+
+.z-cart-length {
+  width: 25px;
+  height: 25px;
+  background: orange;
+  box-shadow: 0 0 20px 0px orange;
+  font-weight: 900;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50px;
+  position: relative;
+  bottom: 8px;
+  right: 10px;
+}
+
+.z-item.zsearch.zflex {
+  width: 50%;
+}
+
+@media only screen and (max-width: 992px) {
+  .z-nav {
+    justify-content: space-between;
+  }
+  ul#dropdown1 {
+    width: unset !important;
+    height: unset !important;
+  }
+  .z-item.zsearch.zflex.z-abs {
+    position: absolute;
+    top: 40px;
+    background: var(--pr);
+    width: 100%;
+    padding: 1rem;
+  }
+}

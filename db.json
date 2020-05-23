@@ -1,0 +1,333 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "title": "IP68 DOOGEE S95 Pro Helio P90 Octa Core 8GB 128GB 48MP Cam Android 9.0 Modular Rugged",
+      "price": 3951,
+      "image": "./assets/image/default.png",
+      "stock": 0,
+      "rating": 3
+    },
+    {
+      "id": 2,
+      "title": "Conquest Helio P90 256GB 8GB CDMA/GSM/LTE/WCDMA Nfc Usb-Pd Wireless Charging Gorilla Glass",
+      "price": 2162,
+      "image": "./assets/image/default.png",
+      "stock": 50,
+      "rating": 2
+    },
+    {
+      "id": 3,
+      "title": "Huawei Hisilicon Kirin 990 P40 Pro 5G Mobile-Phone 128gb GSM/LTE/WCDMA/.. NFC Supercharge",
+      "price": 3999,
+      "image": "./assets/image/default.png",
+      "stock": 95,
+      "rating": 4
+    },
+    {
+      "id": 4,
+      "title": "Huawei P30 Pro Smartphone 8GB 32MP 256GB GSM/CDMA/LTE Nfc Supercharge Octa Core In-screen fingerprint recognition/Fingerprint recognition/Face recognition",
+      "price": 2844,
+      "image": "./assets/image/default.png",
+      "stock": 51,
+      "rating": 5
+    },
+    {
+      "id": 5,
+      "title": "Apple A13 Bionic Pan-Tong iPhone 11 64G Online-Seller 4gbb Nfc Face recognition/In-screen fingerprint recognition/Iris recognition/Fingerprint recognition",
+      "price": 3555,
+      "image": "./assets/image/default.png",
+      "stock": 83,
+      "rating": 1
+    },
+    {
+      "id": 6,
+      "title": "AGM X3 64gb 8gb NFC Quick Charge 3.0 Wireless Charging Fingerprint Recognition New Smartphone",
+      "price": 3049,
+      "image": "./assets/image/default.png",
+      "stock": 82,
+      "rating": 3
+    },
+    {
+      "id": 7,
+      "title": "AGM X3 128gb Quick Charge 3.0 Wireless Charging Fingerprint Recognition New IP68 Waterproof",
+      "price": 3959,
+      "image": "./assets/image/default.png",
+      "stock": 13,
+      "rating": 2
+    },
+    {
+      "id": 8,
+      "title": "In Stock Global Version Honor 10 4G 128G Smartphone 5.84''24MP AI Cam Kirin 970 Octa Core NFC Android Google Play Fingerprint ID",
+      "price": 3108,
+      "image": "./assets/image/default.png",
+      "stock": 11,
+      "rating": 1
+    },
+    {
+      "id": 9,
+      "title": "Ulefone Helio P90 Armor-7 IP68 128GB GSM/LTE/WCDMA/.. Nfc Adaptive Fast Charge Wireless Charging",
+      "price": 2864,
+      "image": "./assets/image/default.png",
+      "stock": 57,
+      "rating": 1
+    },
+    {
+      "id": 10,
+      "title": "Apple iPhone X Face-Id 64GB 3GB Nfc Adaptive Fast Charge Wireless Charging Hexa Core",
+      "price": 3704,
+      "image": "./assets/image/default.png",
+      "stock": 3,
+      "rating": 3
+    },
+    {
+      "id": 11,
+      "title": "Huawei P30-Lite Smartphone 128gb 4gbb CDMA/CDMA2000/GSM/.. Supercharge Bluetooth 5.0/game Turbogpu Turbo",
+      "price": 2241,
+      "image": "./assets/image/default.png",
+      "stock": 13,
+      "rating": 5
+    },
+    {
+      "id": 12,
+      "title": "DOOGEE Helio P90 S95 IP68 Modular 128GB 6GB WCDMA/GSM/LTE Nfc Adaptive Fast Charge Wireless Charging",
+      "price": 2276,
+      "image": "./assets/image/default.png",
+      "stock": 79,
+      "rating": 4
+    },
+    {
+      "id": 13,
+      "title": "Ulefone Power 3S 64GB Adaptive Fast Charge Octa Core Fingerprint Recognition 13mp New",
+      "price": 2270,
+      "image": "./assets/image/default.png",
+      "stock": 32,
+      "rating": 3
+    },
+    {
+      "id": 14,
+      "title": "Apple iPhone 8 Plus 3GB 64gb Original Nfc Adaptive fast charge/usb-Pd Wireless Charging",
+      "price": 2289,
+      "image": "./assets/image/default.png",
+      "stock": 20,
+      "rating": 2
+    },
+    {
+      "id": 15,
+      "title": "Ulefone Helio P90 Armor-7 IP68 Waterproof 128GB GSM/LTE/WCDMA/.. NFC Adaptive Fast Charge",
+      "price": 3928,
+      "image": "./assets/image/default.png",
+      "stock": 75,
+      "rating": 1
+    },
+    {
+      "id": 16,
+      "title": "Global Version Huawei P40 lite 6GB 128GB Smartphone 48MP AI Cameras 6.4'' FHD Screen Kirin 810 Octa Core 40W QC",
+      "price": 3293,
+      "image": "./assets/image/default.png",
+      "stock": 92,
+      "rating": 4
+    },
+    {
+      "id": 17,
+      "title": "AGM X3 6GB 64GB Smartphone GSM/WCDMA/LTE NFC Quick Charge 4.0 Wireless Charging Waterproof",
+      "price": 3465,
+      "image": "./assets/image/default.png",
+      "stock": 5,
+      "rating": 3
+    },
+    {
+      "id": 18,
+      "title": "Ulefone Power-3 Android 64GB 6GB 5g wi-Fi Octa Core Fingerprint Recognition 21MP New",
+      "price": 3823,
+      "image": "./assets/image/default.png",
+      "stock": 15,
+      "rating": 3
+    },
+    {
+      "id": 19,
+      "title": "Oneplus 6 8GB 128GB Mobile-Phone Nfc Dash Charge Octa Core Face Recognition 20mp New",
+      "price": 3784,
+      "image": "./assets/image/default.png",
+      "stock": 9,
+      "rating": 3
+    },
+    {
+      "id": 20,
+      "title": "Apple A10 Fusion IPHONE 7-Plus 32G 128GB 2gb GSM/LTE/WCDMA Nfc Quad Core Face Recognition/fingerprint Recognition",
+      "price": 3461,
+      "image": "./assets/image/default.png",
+      "stock": 52,
+      "rating": 5
+    }
+  ],
+  "detail": [
+    {
+      "id": 1,
+      "ram": 16,
+      "storage": 128,
+      "color": "blue",
+      "screen": 14,
+      "os": "android"
+    },
+    {
+      "id": 2,
+      "ram": 8,
+      "storage": 64,
+      "color": "red",
+      "screen": 12,
+      "os": "apple"
+    },
+    {
+      "id": 3,
+      "ram": 64,
+      "storage": 256,
+      "color": "white",
+      "screen": 11,
+      "os": "apple"
+    },
+    {
+      "id": 4,
+      "ram": 8,
+      "storage": 64,
+      "color": "green",
+      "screen": 9,
+      "os": "android"
+    },
+    {
+      "id": 5,
+      "ram": 16,
+      "storage": 16,
+      "color": "red",
+      "screen": 7,
+      "os": "apple"
+    },
+    {
+      "id": 6,
+      "ram": 64,
+      "storage": 8,
+      "color": "green",
+      "screen": 10,
+      "os": "android"
+    },
+    {
+      "id": 7,
+      "ram": 64,
+      "storage": 256,
+      "color": "white",
+      "screen": 6,
+      "os": "android"
+    },
+    {
+      "id": 8,
+      "ram": 64,
+      "storage": 64,
+      "color": "white",
+      "screen": 10,
+      "os": "android"
+    },
+    {
+      "id": 9,
+      "ram": 16,
+      "storage": 16,
+      "color": "blue",
+      "screen": 14,
+      "os": "apple"
+    },
+    {
+      "id": 10,
+      "ram": 32,
+      "storage": 8,
+      "color": "white",
+      "screen": 14,
+      "os": "apple"
+    },
+    {
+      "id": 11,
+      "ram": 8,
+      "storage": 32,
+      "color": "blue",
+      "screen": 6,
+      "os": "android"
+    },
+    {
+      "id": 12,
+      "ram": 16,
+      "storage": 8,
+      "color": "blue",
+      "screen": 12,
+      "os": "apple"
+    },
+    {
+      "id": 13,
+      "ram": 32,
+      "storage": 128,
+      "color": "red",
+      "screen": 13,
+      "os": "apple"
+    },
+    {
+      "id": 14,
+      "ram": 16,
+      "storage": 256,
+      "color": "red",
+      "screen": 7,
+      "os": "android"
+    },
+    {
+      "id": 15,
+      "ram": 32,
+      "storage": 256,
+      "color": "red",
+      "screen": 13,
+      "os": "apple"
+    },
+    {
+      "id": 16,
+      "ram": 16,
+      "storage": 128,
+      "color": "blue",
+      "screen": 12,
+      "os": "android"
+    },
+    {
+      "id": 17,
+      "ram": 32,
+      "storage": 64,
+      "color": "blue",
+      "screen": 6,
+      "os": "apple"
+    },
+    {
+      "id": 18,
+      "ram": 64,
+      "storage": 32,
+      "color": "white",
+      "screen": 11,
+      "os": "android"
+    },
+    {
+      "id": 19,
+      "ram": 8,
+      "storage": 16,
+      "color": "red",
+      "screen": 5,
+      "os": "apple"
+    },
+    {
+      "id": 20,
+      "ram": 64,
+      "storage": 8,
+      "color": "green",
+      "screen": 7,
+      "os": "apple"
+    }
+  ],
+  "user": [
+    {
+      "user": "admin@admin.com",
+      "pasword": "password",
+      "jwt": "eyJhbGciOiJIUzI1NiJ9.ImFkbWluIg.e0rXTU8qP2YD4NAOD0ini8mHfaqhcjpr7n9Ee9fJbbM"
+    }
+  ]
+}

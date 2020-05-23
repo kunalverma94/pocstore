@@ -1,0 +1,27 @@
+.details > .flex-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+.details > .flex-item > a > .card .card-image > img {
+  height: unset !important;
+}
+
+.details > .flex-item {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.details > .flex-item > .card > a {
+  display: flex;
+}
+
+@media only screen and (max-width: 992px) {
+  .details > .flex-item > .card > a {
+    display: unset;
+  }
+}

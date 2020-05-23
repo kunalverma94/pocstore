@@ -1,0 +1,38 @@
+.check-img {
+  width: 265px;
+}
+.checkout-table {
+  padding: 2rem;
+}
+
+td,
+th,
+tr {
+  padding: 9px 0px;
+  text-align: center;
+}
+.place-order {
+  width: 100%;
+  text-align: end;
+}
+
+.place-order > a > button {
+  padding: 1rem;
+  margin: 50px 0;
+  height: unset;
+  width: 50%;
+}
+
+@media only screen and (max-width: 992px) {
+  .check-img {
+    width: 100px;
+  }
+
+  .place-order > button {
+    width: 100%;
+  }
+
+  .checkout-table {
+    padding: 0rem;
+  }
+}
