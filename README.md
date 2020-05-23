@@ -1,6 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 \*\*\*add
 "homepage": "http://kunalverma94.github.io/pocstore/build",
+// host = "https://jsondbpoc.herokuapp.com/";
+
+prods
 
 ## Available Scripts
 
