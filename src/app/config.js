@@ -1,5 +1,5 @@
 let host = "http://localhost:4000/";
-host = "https://jsondbpoc.herokuapp.com/";
+// host = "https://jsondbpoc.herokuapp.com/";
 export const config = {
   DATA_SERVICE: `${host}data`,
   DETAIL_SERVICE: `${host}detail`,
