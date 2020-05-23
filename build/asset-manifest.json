@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pocstore/dist/static/css/main.4c362051.chunk.css",
+    "main.js": "/pocstore/dist/static/js/main.6ddf3a99.chunk.js",
+    "main.js.map": "/pocstore/dist/static/js/main.6ddf3a99.chunk.js.map",
+    "runtime-main.js": "/pocstore/dist/static/js/runtime-main.cdfe3f3f.js",
+    "runtime-main.js.map": "/pocstore/dist/static/js/runtime-main.cdfe3f3f.js.map",
+    "static/js/2.a59a279d.chunk.js": "/pocstore/dist/static/js/2.a59a279d.chunk.js",
+    "static/js/2.a59a279d.chunk.js.map": "/pocstore/dist/static/js/2.a59a279d.chunk.js.map",
+    "index.html": "/pocstore/dist/index.html",
+    "precache-manifest.e6bf86a67ab04a3c0b2fe519301c59fa.js": "/pocstore/dist/precache-manifest.e6bf86a67ab04a3c0b2fe519301c59fa.js",
+    "service-worker.js": "/pocstore/dist/service-worker.js",
+    "static/css/main.4c362051.chunk.css.map": "/pocstore/dist/static/css/main.4c362051.chunk.css.map",
+    "static/js/2.a59a279d.chunk.js.LICENSE.txt": "/pocstore/dist/static/js/2.a59a279d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cdfe3f3f.js",
+    "static/js/2.a59a279d.chunk.js",
+    "static/css/main.4c362051.chunk.css",
+    "static/js/main.6ddf3a99.chunk.js"
+  ]
+}
